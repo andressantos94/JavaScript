@@ -1,2 +1,1 @@
-console.log("happy")
-console.log (prompt("Welcome to the jungle"))
+console.log("Hello World Again")
